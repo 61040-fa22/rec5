@@ -41,7 +41,7 @@ const prefix = "/api/session";
     } else {
       res.status(400).json({
         error: {
-          password: 'You have entered an incorrect password'
+          usernotfound: 'There is no user with the username you entered'
         }
       }).end();
     }
