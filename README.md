@@ -1,0 +1,1 @@
+This is a much-smaller version of the Fritter Starter code, adapted for Recitation 5. To see the full code, go back to the main branch.
